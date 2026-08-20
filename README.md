@@ -1,7 +1,6 @@
 # SCP-CS-Furniture-PLUGIN-API-Unity-asset 1.0 V pre-realese
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue)](#)
-[![License](https://img.shields.io/badge/License-CC--BY--NC--SA%204.0-lightgrey)](#)
 
 ---
 
