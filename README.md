@@ -1,0 +1,1 @@
+# SCP-CS-Furniture-PLUGIN-API-Unity-asset
