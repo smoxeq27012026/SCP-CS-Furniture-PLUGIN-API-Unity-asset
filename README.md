@@ -1,5 +1,5 @@
 # SCP-CS-Furniture-PLUGIN-API-Unity-asset 1.0 V pre-realese
-
+(модели пока имеют примитивные размеры схожими с реальными но все ещё находится в доработке и требует последнего обновления 1.1)
 [![Unity Version](https://img.shields.io/badge/Unity-2022.6%2B-blue)](#)
 
 ---
