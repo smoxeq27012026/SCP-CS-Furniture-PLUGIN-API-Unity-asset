@@ -20,13 +20,13 @@ Primary use case: Placing furniture, lockers, surveillance equipment, and doors 
 
 ## / IMPORTANT NOTES / ВАЖНЫЕ ПРИМЕЧАНИЯ
 
-**EN:**
+**~EN:**
 - **Origin:** All models have been manually extracted and meticulously recreated from the original (SCP:CS) game files by the plugin developer `smoxeq`.
 - **Asset Nature:** This package is open-source and publicly available for the (SCP:CS) modding community.
 - **Scale & Placement:** Please note that the original in-game size of these assets may not match your custom environment requirements perfectly. You will need to adjust the Transform Scale and Position components in Unity after placement to fit your specific room layouts.
 - **License Warning:** The 3D models, textures, and sounds contained within this asset are the intellectual property of the (SCP:CS) developers and their respective contributors. This asset is redistributed for modding purposes only.
 
-**RU:**
+**~RU:**
 - **Происхождение:** Все модели были вручную извлечены и тщательно воссозданы из оригинальных файлов игры (SCP:CS) разработчиком плагинов `smoxeq`.
 - **Природа ассета:** Данный пакет имеет открытый исходный код и общедоступен для сообщества моддеров (SCP:CS).
 - **Масштаб и размещение:** Обратите внимание, что оригинальный игровой размер этих ассетов может не идеально совпадать с вашими требованиями к окружению. После размещения в Unity вам может потребоваться корректировка параметров масштаба (Transform Scale) и позиции для соответствия планировке ваших комнат.
